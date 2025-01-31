@@ -11,7 +11,13 @@
 *.cb
 *.cb2
 .*.lb
-
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
 ## Intermediate documents:
 *.dvi
 *.xdv
