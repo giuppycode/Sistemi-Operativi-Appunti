@@ -1,0 +1,126 @@
+\documentclass{report}
+\usepackage[italian]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{titlesec}
+
+
+% Define code colors
+\definecolor{background}{RGB}{240,240,240}
+\definecolor{keyword}{RGB}{0,0,255}
+\definecolor{string}{RGB}{163,21,21}
+\definecolor{comment}{RGB}{0,128,0}
+\definecolor{identifier}{RGB}{43,145,175}
+\definecolor{number}{RGB}{128,0,128}
+\definecolor{function}{RGB}{128,0,128}
+
+% Define the code style
+\lstdefinestyle{Cstyle}{
+  backgroundcolor=\color{background},
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{keyword}\bfseries,
+  stringstyle=\color{string},
+  commentstyle=\color{comment}\itshape,
+  identifierstyle=\color{identifier},
+  numberstyle=\color{number},
+  numbers=left,
+  numbersep=5pt,
+  stepnumber=1,
+  tabsize=4,
+  showstringspaces=false,
+  breaklines=true,
+  frame=single,
+  language=C++
+}
+
+% Custom command to use C style
+\newcommand{\pycode}[1]{%
+  \lstset{style=Cstyle}%
+  \lstinputlisting{#1}% For input from a file
+}
+
+% For inline C code
+\newcommand{\pyinline}[1]{%
+  {\lstinline[style=Cstyle]!#1!}%
+}
+
+\title{Sistemi Operativi \\[1ex]
+      \begin{minipage}{10cm}
+        \centering
+        \large Università di Bologna sede di Cesena - Corso di Laurea Triennale in Ingegneria Informatica
+      \end{minipage}}
+
+\author{Cattolico Giuseppe}
+
+
+\begin{document}
+\lstset{style=Cstyle}
+\captionsetup{
+    font=small,          % dimensione generale
+    labelfont=small     % dimensione dell'etichetta (es. "Figura 1:")
+}
+
+\newpage
+\thispagestyle{empty}
+
+\begin{center}
+   \vspace*{\fill}  % Aggiunge spazio verticale variabile prima
+   
+   \Large\textbf{DISCLAIMER}
+
+   \vspace{1cm}
+   \fbox{%
+       \parbox{0.8\textwidth}{%
+           \centering
+           Il presente documento è una rielaborazione personale delle slide del corso di Sistemi Operativi 
+           del Professore Ferretti. I contenuti sono stati trascritti e organizzati con il solo scopo di 
+           facilitare lo studio personale della materia.
+
+           \vspace{0.5cm}
+
+           Sebbene il documento possa essere liberamente condiviso a scopo di studio, l'autore non si 
+           assume alcuna responsabilità riguardo alla completezza e all'accuratezza dei contenuti. 
+           Si invitano pertanto gli utilizzatori a verificare sempre le informazioni consultando 
+           direttamente il materiale didattico originale fornito dal Prof. Ferretti.
+
+           \vspace{0.5cm}
+
+           Questo documento non intende sostituire in alcun modo il materiale ufficiale del corso, 
+           ma rappresenta esclusivamente uno strumento di supporto allo studio individuale.
+
+            \vspace{0.5cm}
+
+           Qualora vengano riscontrati errori o imprecisioni, si prega di segnalarli all'autore 
+           in modo che possano essere corretti nelle versioni successive del documento, nell'interesse 
+           di tutti gli utilizzatori.
+       }%
+   }
+   \vspace*{\fill}  % Aggiunge spazio verticale variabile dopo
+\end{center}
+\clearpage
+
+\maketitle
+\tableofcontents
+
+\include{TeX/Slide01}
+\include{TeX/Slide02}
+\include{TeX/Slide03}
+\include{TeX/Slide04}
+\include{TeX/Slide05}
+\include{TeX/Slide07}
+
+\end{document} 
+

@@ -1,0 +1,1483 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.31)  31 JAN 2025 14:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/giuseppe/Developer/Progetti/Uni/Sistemi.Operativi/Latex Project Sistemi Operativi /main.tex"
+(/home/giuseppe/Developer/Progetti/Uni/Sistemi.Operativi/Latex Project Sistemi Operativi /main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen141
+\l@unhyphenated=\language89
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2024/01/03 v.1.5.00 Italian support for the babel system
+\it@lettering=\count198
+\it@doublequoteactive=\count199
+\it@ISOcompliance=\count266
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count267
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen150
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks20
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks21
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen159
+\captionmargin=\dimen160
+\caption@leftmargin=\dimen161
+\caption@rightmargin=\dimen162
+\caption@width=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count283
+\c@continuedfloat=\count284
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count285
+\lst@gtempboxa=\box53
+\lst@token=\toks24
+\lst@length=\count286
+\lst@currlwidth=\dimen167
+\lst@column=\count287
+\lst@pos=\count288
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count289
+\lst@lineno=\count290
+\lst@maxwidth=\dimen170
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count291
+\lst@skipnumbers=\count292
+\lst@framebox=\box54
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 758.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count293
+\mult@box=\box55
+\multicol@leftmargin=\dimen171
+\c@unbalance=\count294
+\c@collectmore=\count295
+\doublecol@number=\count296
+\multicoltolerance=\count297
+\multicolpretolerance=\count298
+\full@width=\dimen172
+\page@free=\dimen173
+\premulticols=\dimen174
+\postmulticols=\dimen175
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
+\maxbalancingoverflow=\dimen176
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count299
+\c@columnbadness=\count300
+\c@finalcolumnbadness=\count301
+\last@try=\dimen177
+\multicolovershoot=\dimen178
+\multicolundershoot=\dimen179
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count302
+) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count303
+)
+\@linkdim=\dimen182
+\Hy@linkcounter=\count304
+\Hy@pagecounter=\count305
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count306
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count307
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen183
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count308
+\Field@Width=\dimen184
+\Fld@charsize=\dimen185
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count309
+\c@Item=\count310
+\c@Hfootnote=\count311
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count312
+\c@bookmark@seq@number=\count313
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip55
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box101
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen186
+\ttl@minus=\dimen187
+\ttl@toksa=\toks25
+\titlewidth=\dimen188
+\titlewidthlast=\dimen189
+\titlewidthfirst=\dimen190
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count314
+\l__pdf_internal_box=\box102
+) (./main.aux (./TeX/Slide01.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (./TeX/Slide02.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+) (./TeX/Slide03.aux) (./TeX/Slide04.aux) (./TeX/Slide05.aux) (./TeX/Slide07.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Info: Redefining \it@ocap on input line 69.
+LaTeX Info: Redefining \it@ccap on input line 69.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting
+italian.ldf    on input line 69.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=49.79231pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count315
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen191
+\scratchbox=\box103
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen192
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring ON on input line 69.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \tableofcontents
+                       [1
+
+] (./main.toc
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.196 ...umberline {3.4}Semafori}{39}{section.3.4}
+                                                  % [1
+
+] [2])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [3]
+\openout2 = `TeX/Slide01.aux'.
+
+ (./TeX/Slide01.tex
+Capitolo 1.
+[4
+
+
+]
+<Images/Screenshot 2024-12-15 at 18-55-32 so-01-intro-os.pptx - so-01-intro-os.pdf.png, id=697, 1718.42pt x 776.9025pt>
+File: Images/Screenshot 2024-12-15 at 18-55-32 so-01-intro-os.pptx - so-01-intro-os.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-15 at 18-55-32 so-01-intro-os.pptx - so-01-intro-os.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-15 at 18-55-32 so-01-intro-os.pptx - so-01-intro-os.pdf.png  used on input line 28.
+(pdftex.def)             Requested size: 298.75264pt x 135.05902pt.
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 38.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) [5{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./Images/Screenshot 2024-12-15 at 18-55-32 so-01-intro-os.pptx - so-01-intro-os.pdf.png>] [6]
+<Images/Screenshot 2024-12-16 125618.png, id=730, 1071.25218pt x 693.34032pt>
+File: Images/Screenshot 2024-12-16 125618.png Graphic file (type png)
+<use Images/Screenshot 2024-12-16 125618.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-16 125618.png  used on input line 134.
+(pdftex.def)             Requested size: 213.39568pt x 138.11546pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+
+ []
+
+[7 <./Images/Screenshot 2024-12-16 125618.png>]
+<Images/Screenshot 2024-12-16 132614.png, id=741, 1176.64594pt x 654.94687pt>
+File: Images/Screenshot 2024-12-16 132614.png Graphic file (type png)
+<use Images/Screenshot 2024-12-16 132614.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-16 132614.png  used on input line 181.
+(pdftex.def)             Requested size: 298.75264pt x 166.2947pt.
+<Images/Screenshot 2024-12-16 132946.png, id=742, 1253.43282pt x 475.7775pt>
+File: Images/Screenshot 2024-12-16 132946.png Graphic file (type png)
+<use Images/Screenshot 2024-12-16 132946.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-16 132946.png  used on input line 196.
+(pdftex.def)             Requested size: 298.75264pt x 113.39761pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
+
+ []
+
+[8 <./Images/Screenshot 2024-12-16 132614.png> <./Images/Screenshot 2024-12-16 132946.png>]
+<Images/Screenshot 2024-12-16 140040.png, id=761, 1232.35406pt x 728.7225pt>
+File: Images/Screenshot 2024-12-16 140040.png Graphic file (type png)
+<use Images/Screenshot 2024-12-16 140040.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-16 140040.png  used on input line 238.
+(pdftex.def)             Requested size: 298.75264pt x 176.65384pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--245
+
+ []
+
+<Images/Screenshot 2024-12-16 140334.png, id=762, 1276.77pt x 654.19406pt>
+File: Images/Screenshot 2024-12-16 140334.png Graphic file (type png)
+<use Images/Screenshot 2024-12-16 140334.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-16 140334.png  used on input line 252.
+(pdftex.def)             Requested size: 298.75264pt x 153.0768pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+[9 <./Images/Screenshot 2024-12-16 140040.png> <./Images/Screenshot 2024-12-16 140334.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--328
+
+ []
+
+[10]
+Overfull \hbox (31.98611pt too wide) in paragraph at lines 337--338
+[]\OT1/cmr/m/n/10 Le ope-ra-zio-ni ge-sti-te dal con-trol-ler so-no: READ (head, sec-tor), WRI-TE(head, sec-tor), SEEK(cylinder). 
+ []
+
+<Images/Screenshot 2024-12-17 at 19-02-22 so-01-intro-os.pptx - so-01-intro-os.pdf.png, id=778, 1736.4875pt x 580.1675pt>
+File: Images/Screenshot 2024-12-17 at 19-02-22 so-01-intro-os.pptx - so-01-intro-os.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-17 at 19-02-22 so-01-intro-os.pptx - so-01-intro-os.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-17 at 19-02-22 so-01-intro-os.pptx - so-01-intro-os.pdf.png  used on input line 358.
+(pdftex.def)             Requested size: 298.75264pt x 99.81342pt.
+[11 <./Images/Screenshot 2024-12-17 at 19-02-22 so-01-intro-os.pptx - so-01-intro-os.pdf.png>]
+<Images/Screenshot 2024-12-17 at 19-31-43 so-01-intro-os.pptx - so-01-intro-os.pdf.png, id=786, 678.535pt x 702.625pt>
+File: Images/Screenshot 2024-12-17 at 19-31-43 so-01-intro-os.pptx - so-01-intro-os.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-17 at 19-31-43 so-01-intro-os.pptx - so-01-intro-os.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-17 at 19-31-43 so-01-intro-os.pptx - so-01-intro-os.pdf.png  used on input line 413.
+(pdftex.def)             Requested size: 128.0387pt x 132.57811pt.
+ [12 <./Images/Screenshot 2024-12-17 at 19-31-43 so-01-intro-os.pptx - so-01-intro-os.pdf.png>] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 490--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--498
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 539.
+[14] [15]
+<Images/Screenshot 2024-12-18 at 13-24-07 so-01-intro-os.pptx - so-01-intro-os.pdf.png, id=856, 839.135pt x 327.2225pt>
+File: Images/Screenshot 2024-12-18 at 13-24-07 so-01-intro-os.pptx - so-01-intro-os.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-18 at 13-24-07 so-01-intro-os.pptx - so-01-intro-os.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-18 at 13-24-07 so-01-intro-os.pptx - so-01-intro-os.pdf.png  used on input line 607.
+(pdftex.def)             Requested size: 170.71393pt x 66.56676pt.
+) [16 <./Images/Screenshot 2024-12-18 at 13-24-07 so-01-intro-os.pptx - so-01-intro-os.pdf.png>]
+\openout2 = `TeX/Slide02.aux'.
+
+ (./TeX/Slide02.tex
+Capitolo 2.
+[17
+
+
+
+
+]
+<Images/Screenshot 2024-12-18 at 15-07-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=869, 1316.92pt x 784.9325pt>
+File: Images/Screenshot 2024-12-18 at 15-07-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-18 at 15-07-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-18 at 15-07-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 22.
+(pdftex.def)             Requested size: 298.75264pt x 178.06339pt.
+<Images/Screenshot 2024-12-18 at 18-22-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=870, 568.1225pt x 704.6325pt>
+File: Images/Screenshot 2024-12-18 at 18-22-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-18 at 18-22-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-18 at 18-22-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 42.
+(pdftex.def)             Requested size: 128.0387pt x 158.80426pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./Images/Screenshot 2024-12-18 at 15-07-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-18 at 18-47-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=881, 672.5125pt x 325.215pt>
+File: Images/Screenshot 2024-12-18 at 18-47-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-18 at 18-47-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-18 at 18-47-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 82.
+(pdftex.def)             Requested size: 149.37958pt x 72.23729pt.
+ [19 <./Images/Screenshot 2024-12-18 at 18-22-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-18 at 18-47-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-18 at 18-58-00 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=891, 1726.45pt x 815.045pt>
+File: Images/Screenshot 2024-12-18 at 18-58-00 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-18 at 18-58-00 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-18 at 18-58-00 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 99.
+(pdftex.def)             Requested size: 256.07741pt x 120.88344pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+<Images/Screenshot 2024-12-23 at 12-34-55 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=892, 1489.565pt x 610.28pt>
+File: Images/Screenshot 2024-12-23 at 12-34-55 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 12-34-55 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 12-34-55 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 121.
+(pdftex.def)             Requested size: 256.07741pt x 104.91023pt.
+<Images/Screenshot 2024-12-23 at 12-37-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=893, 1720.4275pt x 680.5425pt>
+File: Images/Screenshot 2024-12-23 at 12-37-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 12-37-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 12-37-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 129.
+(pdftex.def)             Requested size: 256.07741pt x 101.28777pt.
+[20 <./Images/Screenshot 2024-12-18 at 18-58-00 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 12-34-55 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 12-37-44 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-23 at 12-42-11 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=904, 1569.865pt x 616.3025pt>
+File: Images/Screenshot 2024-12-23 at 12-42-11 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 12-42-11 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 12-42-11 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 144.
+(pdftex.def)             Requested size: 256.07741pt x 100.52882pt.
+<Images/Screenshot 2024-12-23 at 12-51-01 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=905, 1632.0975pt x 772.8875pt>
+File: Images/Screenshot 2024-12-23 at 12-51-01 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 12-51-01 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 12-51-01 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 170.
+(pdftex.def)             Requested size: 256.07741pt x 121.25868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+[21 <./Images/Screenshot 2024-12-23 at 12-42-11 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 12-51-01 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
+
+<Images/Screenshot 2024-12-23 at 13-14-46 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=914, 1381.16pt x 680.5425pt>
+File: Images/Screenshot 2024-12-23 at 13-14-46 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 13-14-46 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 13-14-46 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 231.
+(pdftex.def)             Requested size: 213.39568pt x 105.1403pt.
+<Images/Screenshot 2024-12-23 at 13-16-34 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=915, 1465.475pt x 744.7825pt>
+File: Images/Screenshot 2024-12-23 at 13-16-34 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 13-16-34 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 13-16-34 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 239.
+(pdftex.def)             Requested size: 213.39568pt x 108.45096pt.
+[22 <./Images/Screenshot 2024-12-23 at 13-14-46 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 13-16-34 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-23 at 13-17-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=924, 1395.2125pt x 722.7pt>
+File: Images/Screenshot 2024-12-23 at 13-17-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 13-17-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 13-17-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 247.
+(pdftex.def)             Requested size: 213.39568pt x 110.52863pt.
+<Images/Screenshot 2024-12-23 at 13-32-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=925, 1483.5425pt x 230.8625pt>
+File: Images/Screenshot 2024-12-23 at 13-32-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 13-32-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 13-32-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 256.
+(pdftex.def)             Requested size: 213.39568pt x 33.20471pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--260
+
+ []
+
+<Images/Screenshot 2024-12-23 at 13-37-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=926, 1511.6475pt x 379.4175pt>
+File: Images/Screenshot 2024-12-23 at 13-37-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 13-37-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 13-37-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 265.
+(pdftex.def)             Requested size: 213.39568pt x 53.55807pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+
+ []
+
+[23 <./Images/Screenshot 2024-12-23 at 13-17-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 13-32-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 13-37-03 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-23 at 14-20-04 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=945, 491.8375pt x 963.6pt>
+File: Images/Screenshot 2024-12-23 at 14-20-04 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 14-20-04 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 14-20-04 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 304.
+(pdftex.def)             Requested size: 85.35696pt x 167.22101pt.
+<Images/Screenshot 2024-12-23 at 14-30-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=946, 1732.4725pt x 301.125pt>
+File: Images/Screenshot 2024-12-23 at 14-30-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 14-30-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 14-30-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 330.
+(pdftex.def)             Requested size: 213.39568pt x 37.08914pt.
+ [24 <./Images/Screenshot 2024-12-23 at 14-20-04 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 14-30-35 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+<Images/Screenshot 2024-12-23 at 14-25-16 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=955, 1403.2425pt x 208.78pt>
+File: Images/Screenshot 2024-12-23 at 14-25-16 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 14-25-16 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 14-25-16 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 339.
+(pdftex.def)             Requested size: 213.39568pt x 31.7489pt.
+<Images/Screenshot 2024-12-23 at 14-33-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=956, 1451.4225pt x 250.9375pt>
+File: Images/Screenshot 2024-12-23 at 14-33-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 14-33-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 14-33-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 360.
+(pdftex.def)             Requested size: 213.39568pt x 36.89233pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
+
+ []
+
+[25 <./Images/Screenshot 2024-12-23 at 14-25-16 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 14-33-56 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
+
+ []
+
+<Images/Screenshot 2024-12-23 at 15-06-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=968, 1521.685pt x 192.72pt>
+File: Images/Screenshot 2024-12-23 at 15-06-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 15-06-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 15-06-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 424.
+(pdftex.def)             Requested size: 213.39568pt x 27.02472pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+<Images/Screenshot 2024-12-23 at 17-14-31 so-02.1-scheduling - so-02.1-scheduling.pdf.png, id=969, 1646.15pt x 738.76pt>
+File: Images/Screenshot 2024-12-23 at 17-14-31 so-02.1-scheduling - so-02.1-scheduling.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-23 at 17-14-31 so-02.1-scheduling - so-02.1-scheduling.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-23 at 17-14-31 so-02.1-scheduling - so-02.1-scheduling.pdf.png  used on input line 459.
+(pdftex.def)             Requested size: 256.07741pt x 114.92369pt.
+[26 <./Images/Screenshot 2024-12-23 at 15-06-19 so-02.1-scheduling - so-02.1-scheduling.pdf.png> <./Images/Screenshot 2024-12-23 at 17-14-31 so-02.1-scheduling - so-02.1-scheduling.pdf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--505
+
+ []
+
+[27]) [28]
+\openout2 = `TeX/Slide03.aux'.
+
+ (./TeX/Slide03.tex
+Capitolo 3.
+[29
+
+
+
+
+]
+<Images/Screenshot 2024-12-26 at 15-07-23 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=991, 825.0825pt x 513.92pt>
+File: Images/Screenshot 2024-12-26 at 15-07-23 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-26 at 15-07-23 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-26 at 15-07-23 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 44.
+(pdftex.def)             Requested size: 213.39568pt x 132.91812pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+
+ []
+
+[30 <./Images/Screenshot 2024-12-26 at 15-07-23 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
+
+ []
+
+[34] [35] [36] [37]
+Underfull \hbox (badness 10000) in paragraph at lines 517--522
+
+ []
+
+[38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 661--665
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 702--704
+
+ []
+
+[41] [42]
+<Images/Screenshot 2024-12-28 at 19-31-02 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=1348, 1104.125pt x 467.7475pt>
+File: Images/Screenshot 2024-12-28 at 19-31-02 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-28 at 19-31-02 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-28 at 19-31-02 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 877.
+(pdftex.def)             Requested size: 213.39568pt x 90.40031pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43] [44 <./Images/Screenshot 2024-12-28 at 19-31-02 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>] [45] [46] [47]
+<Images/Screenshot 2025-01-16 at 12-03-09 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=1523, 1686.3pt x 881.2925pt>
+File: Images/Screenshot 2025-01-16 at 12-03-09 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 12-03-09 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 12-03-09 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 1194.
+(pdftex.def)             Requested size: 362.77525pt x 189.58177pt.
+ [48 <./Images/Screenshot 2025-01-16 at 12-03-09 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>] [49] [50] [51] [52]
+<Images/Screenshot 2025-01-16 at 12-18-56 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=1748, 1692.3225pt x 929.4725pt>
+File: Images/Screenshot 2025-01-16 at 12-18-56 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 12-18-56 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 12-18-56 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 1438.
+(pdftex.def)             Requested size: 298.75264pt x 164.07838pt.
+ [53 <./Images/Screenshot 2025-01-16 at 12-18-56 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>] [54] [55] [56] [57] [58] [59]
+<Images/Screenshot 2025-01-16 at 13-01-13 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=2066, 1413.28pt x 538.01pt>
+File: Images/Screenshot 2025-01-16 at 13-01-13 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 13-01-13 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 13-01-13 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 1800.
+(pdftex.def)             Requested size: 298.75264pt x 113.72427pt.
+ [60 <./Images/Screenshot 2025-01-16 at 13-01-13 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>]
+<Images/Screenshot 2025-01-16 at 13-17-46 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png, id=2073, 1593.955pt x 690.58pt>
+File: Images/Screenshot 2025-01-16 at 13-17-46 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 13-17-46 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 13-17-46 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png  used on input line 1861.
+(pdftex.def)             Requested size: 298.75264pt x 129.43074pt.
+ [61 <./Images/Screenshot 2025-01-16 at 13-17-46 so-03.1-concorrenza - so-03.1-concorrenza.pdf.png>] [62] [63]) [64]
+\openout2 = `TeX/Slide04.aux'.
+
+ (./TeX/Slide04.tex
+Capitolo 4.
+[65
+
+
+
+
+] [66]
+<Images/Screenshot 2024-12-30 at 18-00-42 so-04-risorse - so-04-risorse.pdf.png, id=2218, 760.8425pt x 475.7775pt>
+File: Images/Screenshot 2024-12-30 at 18-00-42 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-30 at 18-00-42 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-30 at 18-00-42 so-04-risorse - so-04-risorse.pdf.png  used on input line 100.
+(pdftex.def)             Requested size: 170.71393pt x 106.74767pt.
+<Images/Screenshot 2024-12-30 at 18-04-17 so-04-risorse - so-04-risorse.pdf.png, id=2219, 592.2125pt x 696.6025pt>
+File: Images/Screenshot 2024-12-30 at 18-04-17 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-30 at 18-04-17 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-30 at 18-04-17 so-04-risorse - so-04-risorse.pdf.png  used on input line 114.
+(pdftex.def)             Requested size: 85.35696pt x 100.39359pt.
+ [67 <./Images/Screenshot 2024-12-30 at 18-00-42 so-04-risorse - so-04-risorse.pdf.png> <./Images/Screenshot 2024-12-30 at 18-04-17 so-04-risorse - so-04-risorse.pdf.png>]
+<Images/Screenshot 2024-12-30 at 18-14-14 so-04-risorse - so-04-risorse.pdf.png, id=2228, 1351.0475pt x 798.985pt>
+File: Images/Screenshot 2024-12-30 at 18-14-14 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-30 at 18-14-14 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-30 at 18-14-14 so-04-risorse - so-04-risorse.pdf.png  used on input line 147.
+(pdftex.def)             Requested size: 170.71393pt x 100.95792pt.
+<Images/Screenshot 2024-12-30 at 18-16-02 so-04-risorse - so-04-risorse.pdf.png, id=2229, 1591.9475pt x 780.9175pt>
+File: Images/Screenshot 2024-12-30 at 18-16-02 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-30 at 18-16-02 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-30 at 18-16-02 so-04-risorse - so-04-risorse.pdf.png  used on input line 155.
+(pdftex.def)             Requested size: 213.39568pt x 104.66861pt.
+<Images/Screenshot 2024-12-30 at 18-18-35 so-04-risorse - so-04-risorse.pdf.png, id=2230, 1250.6725pt x 809.0225pt>
+File: Images/Screenshot 2024-12-30 at 18-18-35 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2024-12-30 at 18-18-35 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2024-12-30 at 18-18-35 so-04-risorse - so-04-risorse.pdf.png  used on input line 166.
+(pdftex.def)             Requested size: 213.39568pt x 138.03813pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[68 <./Images/Screenshot 2024-12-30 at 18-14-14 so-04-risorse - so-04-risorse.pdf.png> <./Images/Screenshot 2024-12-30 at 18-16-02 so-04-risorse - so-04-risorse.pdf.png>]
+<Images/Screenshot 2025-01-14 at 17-54-33 so-04-risorse - so-04-risorse.pdf.png, id=2239, 1411.2725pt x 562.1pt>
+File: Images/Screenshot 2025-01-14 at 17-54-33 so-04-risorse - so-04-risorse.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-14 at 17-54-33 so-04-risorse - so-04-risorse.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-14 at 17-54-33 so-04-risorse - so-04-risorse.pdf.png  used on input line 184.
+(pdftex.def)             Requested size: 256.07741pt x 101.98843pt.
+ [69 <./Images/Screenshot 2024-12-30 at 18-18-35 so-04-risorse - so-04-risorse.pdf.png> <./Images/Screenshot 2025-01-14 at 17-54-33 so-04-risorse - so-04-risorse.pdf.png>] [70]
+<Images/Screenshot 2025-01-15 113351.png, id=2252, 1160.83687pt x 587.19376pt>
+File: Images/Screenshot 2025-01-15 113351.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 113351.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 113351.png  used on input line 298.
+(pdftex.def)             Requested size: 298.75264pt x 151.11671pt.
+ [71 <./Images/Screenshot 2025-01-15 113351.png>]
+<Images/Screenshot 2025-01-15 113840.png, id=2260, 1142.76938pt x 692.5875pt>
+File: Images/Screenshot 2025-01-15 113840.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 113840.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 113840.png  used on input line 310.
+(pdftex.def)             Requested size: 298.75264pt x 181.06189pt.
+<Images/Screenshot 2025-01-15 114120.png, id=2261, 1198.4775pt x 593.21625pt>
+File: Images/Screenshot 2025-01-15 114120.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 114120.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 114120.png  used on input line 315.
+(pdftex.def)             Requested size: 298.75264pt x 147.8692pt.
+<Images/Screenshot 2025-01-15 114202.png, id=2262, 1234.6125pt x 669.2503pt>
+File: Images/Screenshot 2025-01-15 114202.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 114202.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 114202.png  used on input line 320.
+(pdftex.def)             Requested size: 298.75264pt x 161.94069pt.
+ [72 <./Images/Screenshot 2025-01-15 113840.png> <./Images/Screenshot 2025-01-15 114120.png> <./Images/Screenshot 2025-01-15 114202.png>]
+<Images/Screenshot 2025-01-15 114320.png, id=2273, 1176.64594pt x 607.51968pt>
+File: Images/Screenshot 2025-01-15 114320.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 114320.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 114320.png  used on input line 329.
+(pdftex.def)             Requested size: 298.75264pt x 154.25266pt.
+<Images/Screenshot 2025-01-15 114534.png, id=2274, 1224.82594pt x 648.92438pt>
+File: Images/Screenshot 2025-01-15 114534.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 114534.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 114534.png  used on input line 334.
+(pdftex.def)             Requested size: 298.75264pt x 158.27988pt.
+<Images/Screenshot 2025-01-15 114907.png, id=2275, 1227.83719pt x 655.69969pt>
+File: Images/Screenshot 2025-01-15 114907.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 114907.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 114907.png  used on input line 339.
+(pdftex.def)             Requested size: 298.75264pt x 159.54225pt.
+ [73 <./Images/Screenshot 2025-01-15 114320.png> <./Images/Screenshot 2025-01-15 114534.png> <./Images/Screenshot 2025-01-15 114907.png>]
+<Images/Screenshot 2025-01-15 122610.png, id=2286, 1150.2975pt x 439.6425pt>
+File: Images/Screenshot 2025-01-15 122610.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 122610.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 122610.png  used on input line 380.
+(pdftex.def)             Requested size: 277.41176pt x 106.02618pt.
+<Images/Screenshot 2025-01-15 122705.png, id=2287, 1210.5225pt x 443.40656pt>
+File: Images/Screenshot 2025-01-15 122705.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 122705.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 122705.png  used on input line 385.
+(pdftex.def)             Requested size: 277.41176pt x 101.60924pt.
+<Images/Screenshot 2025-01-15 122853.png, id=2288, 1209.76968pt x 464.4853pt>
+File: Images/Screenshot 2025-01-15 122853.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 122853.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 122853.png  used on input line 390.
+(pdftex.def)             Requested size: 277.41176pt x 106.51044pt.
+<Images/Screenshot 2025-01-15 123110.png, id=2289, 1226.33156pt x 637.63219pt>
+File: Images/Screenshot 2025-01-15 123110.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 123110.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 123110.png  used on input line 395.
+(pdftex.def)             Requested size: 277.41176pt x 144.23941pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125005.png, id=2290, 1196.21906pt x 586.44093pt>
+File: Images/Screenshot 2025-01-15 125005.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125005.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125005.png  used on input line 400.
+(pdftex.def)             Requested size: 277.41176pt x 135.99712pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125124.png, id=2291, 1155.56718pt x 644.4075pt>
+File: Images/Screenshot 2025-01-15 125124.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125124.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125124.png  used on input line 405.
+(pdftex.def)             Requested size: 277.41176pt x 154.69046pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125217.png, id=2292, 1160.08406pt x 621.82312pt>
+File: Images/Screenshot 2025-01-15 125217.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125217.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125217.png  used on input line 410.
+(pdftex.def)             Requested size: 277.41176pt x 148.69028pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125252.png, id=2293, 1149.5447pt x 598.48593pt>
+File: Images/Screenshot 2025-01-15 125252.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125252.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125252.png  used on input line 415.
+(pdftex.def)             Requested size: 277.41176pt x 144.42491pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125344.png, id=2294, 1120.185pt x 578.91281pt>
+File: Images/Screenshot 2025-01-15 125344.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125344.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125344.png  used on input line 420.
+(pdftex.def)             Requested size: 277.41176pt x 143.36748pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-15 125412.png, id=2295, 1129.21875pt x 640.64343pt>
+File: Images/Screenshot 2025-01-15 125412.png Graphic file (type png)
+<use Images/Screenshot 2025-01-15 125412.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-15 125412.png  used on input line 425.
+(pdftex.def)             Requested size: 277.41176pt x 157.38423pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [74 <./Images/Screenshot 2025-01-15 122610.png> <./Images/Screenshot 2025-01-15 122705.png> <./Images/Screenshot 2025-01-15 122853.png>] [75 <./Images/Screenshot 2025-01-15 123110.png> <./Images/Screenshot 2025-01-15 125005.png> <./Images/Screenshot 2025-01-15 125124.png> <./Images/Screenshot 2025-01-15 125217.png>] [76 <./Images/Screenshot 2025-01-15 125252.png> <./Images/Screenshot 2025-01-15 125344.png> <./Images/Screenshot 2025-01-15 125412.png>]
+\openout2 = `TeX/Slide05.aux'.
+
+ (./TeX/Slide05.tex
+Capitolo 5.
+[77
+
+
+
+
+]
+<Images/Screenshot 2025-01-16 at 18-28-27 so-05-memoria - so-05-memoria.pdf.png, id=2336, 1742.51pt x 433.62pt>
+File: Images/Screenshot 2025-01-16 at 18-28-27 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 18-28-27 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 18-28-27 so-05-memoria - so-05-memoria.pdf.png  used on input line 19.
+(pdftex.def)             Requested size: 298.75264pt x 74.34299pt.
+<Images/Screenshot 2025-01-16 at 18-30-35 so-05-memoria - so-05-memoria.pdf.png, id=2337, 1726.45pt x 397.485pt>
+File: Images/Screenshot 2025-01-16 at 18-30-35 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 18-30-35 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 18-30-35 so-05-memoria - so-05-memoria.pdf.png  used on input line 31.
+(pdftex.def)             Requested size: 298.75264pt x 68.7785pt.
+<Images/Screenshot 2025-01-16 at 18-33-56 so-05-memoria - so-05-memoria.pdf.png, id=2338, 1728.4575pt x 421.575pt>
+File: Images/Screenshot 2025-01-16 at 18-33-56 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 18-33-56 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 18-33-56 so-05-memoria - so-05-memoria.pdf.png  used on input line 43.
+(pdftex.def)             Requested size: 298.75264pt x 72.86328pt.
+ [78 <./Images/Screenshot 2025-01-16 at 18-28-27 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-16 at 18-30-35 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-16 at 18-33-56 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-16 at 18-40-39 so-05-memoria - so-05-memoria.pdf.png, id=2349, 582.175pt x 933.4875pt>
+File: Images/Screenshot 2025-01-16 at 18-40-39 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 18-40-39 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 18-40-39 so-05-memoria - so-05-memoria.pdf.png  used on input line 55.
+(pdftex.def)             Requested size: 106.69783pt x 171.08293pt.
+ [79 <./Images/Screenshot 2025-01-16 at 18-40-39 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-16 at 19-02-29 so-05-memoria - so-05-memoria.pdf.png, id=2356, 624.3325pt x 720.6925pt>
+File: Images/Screenshot 2025-01-16 at 19-02-29 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 19-02-29 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 19-02-29 so-05-memoria - so-05-memoria.pdf.png  used on input line 100.
+(pdftex.def)             Requested size: 128.0387pt x 147.7979pt.
+<Images/Screenshot 2025-01-16 at 19-06-25 so-05-memoria - so-05-memoria.pdf.png, id=2357, 467.7475pt x 696.6025pt>
+File: Images/Screenshot 2025-01-16 at 19-06-25 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 19-06-25 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 19-06-25 so-05-memoria - so-05-memoria.pdf.png  used on input line 120.
+(pdftex.def)             Requested size: 93.8946pt x 139.82823pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[80 <./Images/Screenshot 2025-01-16 at 19-02-29 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-16 at 19-10-01 so-05-memoria - so-05-memoria.pdf.png, id=2364, 1636.1125pt x 919.435pt>
+File: Images/Screenshot 2025-01-16 at 19-10-01 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 19-10-01 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 19-10-01 so-05-memoria - so-05-memoria.pdf.png  used on input line 132.
+(pdftex.def)             Requested size: 256.07741pt x 143.89986pt.
+<Images/Screenshot 2025-01-16 at 19-21-10 so-05-memoria - so-05-memoria.pdf.png, id=2365, 1672.2475pt x 971.63pt>
+File: Images/Screenshot 2025-01-16 at 19-21-10 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-16 at 19-21-10 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-16 at 19-21-10 so-05-memoria - so-05-memoria.pdf.png  used on input line 152.
+(pdftex.def)             Requested size: 256.07741pt x 148.77751pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[81 <./Images/Screenshot 2025-01-16 at 19-06-25 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-16 at 19-10-01 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 15-29-40 so-05-memoria - so-05-memoria.pdf.png, id=2374, 1706.375pt x 383.4325pt>
+File: Images/Screenshot 2025-01-17 at 15-29-40 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-29-40 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-29-40 so-05-memoria - so-05-memoria.pdf.png  used on input line 164.
+(pdftex.def)             Requested size: 298.75264pt x 67.13094pt.
+<Images/Screenshot 2025-01-17 at 15-32-58 so-05-memoria - so-05-memoria.pdf.png, id=2375, 1732.4725pt x 477.785pt>
+File: Images/Screenshot 2025-01-17 at 15-32-58 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-32-58 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-32-58 so-05-memoria - so-05-memoria.pdf.png  used on input line 180.
+(pdftex.def)             Requested size: 298.75264pt x 82.38884pt.
+<Images/Screenshot 2025-01-17 at 15-35-24 so-05-memoria - so-05-memoria.pdf.png, id=2376, 1728.4575pt x 447.6725pt>
+File: Images/Screenshot 2025-01-17 at 15-35-24 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-35-24 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-35-24 so-05-memoria - so-05-memoria.pdf.png  used on input line 193.
+(pdftex.def)             Requested size: 298.75264pt x 77.37386pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-17 at 15-37-05 so-05-memoria - so-05-memoria.pdf.png, id=2377, 1595.9625pt x 521.95pt>
+File: Images/Screenshot 2025-01-17 at 15-37-05 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-37-05 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-37-05 so-05-memoria - so-05-memoria.pdf.png  used on input line 202.
+(pdftex.def)             Requested size: 298.75264pt x 97.70609pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[82 <./Images/Screenshot 2025-01-16 at 19-21-10 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 15-29-40 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 15-32-58 so-05-memoria - so-05-memoria.pdf.png>] [83 <./Images/Screenshot 2025-01-17 at 15-35-24 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 15-37-05 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 15-53-05 so-05-memoria - so-05-memoria.pdf.png, id=2399, 1597.97pt x 967.615pt>
+File: Images/Screenshot 2025-01-17 at 15-53-05 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-53-05 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-53-05 so-05-memoria - so-05-memoria.pdf.png  used on input line 236.
+(pdftex.def)             Requested size: 298.75264pt x 180.89584pt.
+<Images/Screenshot 2025-01-17 at 15-54-41 so-05-memoria - so-05-memoria.pdf.png, id=2400, 1487.5575pt x 1051.93pt>
+File: Images/Screenshot 2025-01-17 at 15-54-41 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-54-41 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-54-41 so-05-memoria - so-05-memoria.pdf.png  used on input line 241.
+(pdftex.def)             Requested size: 298.75264pt x 211.26508pt.
+<Images/Screenshot 2025-01-17 at 15-56-06 so-05-memoria - so-05-memoria.pdf.png, id=2401, 901.3675pt x 1055.945pt>
+File: Images/Screenshot 2025-01-17 at 15-56-06 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 15-56-06 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 15-56-06 so-05-memoria - so-05-memoria.pdf.png  used on input line 246.
+(pdftex.def)             Requested size: 213.39568pt x 249.98392pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[84 <./Images/Screenshot 2025-01-17 at 15-53-05 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 15-54-41 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 16-06-35 so-05-memoria - so-05-memoria.pdf.png, id=2410, 1525.7pt x 1057.9525pt>
+File: Images/Screenshot 2025-01-17 at 16-06-35 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-06-35 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-06-35 so-05-memoria - so-05-memoria.pdf.png  used on input line 274.
+(pdftex.def)             Requested size: 298.75264pt x 207.14742pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[85 <./Images/Screenshot 2025-01-17 at 15-56-06 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 16-16-13 so-05-memoria - so-05-memoria.pdf.png, id=2417, 1714.405pt x 648.4225pt>
+File: Images/Screenshot 2025-01-17 at 16-16-13 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-16-13 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-16-13 so-05-memoria - so-05-memoria.pdf.png  used on input line 315.
+(pdftex.def)             Requested size: 298.75264pt x 112.99081pt.
+ [86 <./Images/Screenshot 2025-01-17 at 16-06-35 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 16-16-13 so-05-memoria - so-05-memoria.pdf.png>] [87]
+<Images/Screenshot 2025-01-17 at 16-42-29 so-05-memoria - so-05-memoria.pdf.png, id=2430, 1714.405pt x 951.555pt>
+File: Images/Screenshot 2025-01-17 at 16-42-29 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-42-29 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-42-29 so-05-memoria - so-05-memoria.pdf.png  used on input line 356.
+(pdftex.def)             Requested size: 298.75264pt x 165.81316pt.
+ [88 <./Images/Screenshot 2025-01-17 at 16-42-29 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 16-49-22 so-05-memoria - so-05-memoria.pdf.png, id=2437, 289.08pt x 696.6025pt>
+File: Images/Screenshot 2025-01-17 at 16-49-22 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-49-22 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-49-22 so-05-memoria - so-05-memoria.pdf.png  used on input line 380.
+(pdftex.def)             Requested size: 42.68173pt x 102.84895pt.
+<Images/Screenshot 2025-01-17 at 16-51-24 so-05-memoria - so-05-memoria.pdf.png, id=2438, 867.24pt x 873.2625pt>
+File: Images/Screenshot 2025-01-17 at 16-51-24 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-51-24 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-51-24 so-05-memoria - so-05-memoria.pdf.png  used on input line 386.
+(pdftex.def)             Requested size: 128.0387pt x 128.91835pt.
+<Images/Screenshot 2025-01-17 at 16-53-05 so-05-memoria - so-05-memoria.pdf.png, id=2439, 1298.8525pt x 865.2325pt>
+File: Images/Screenshot 2025-01-17 at 16-53-05 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-53-05 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-53-05 so-05-memoria - so-05-memoria.pdf.png  used on input line 393.
+(pdftex.def)             Requested size: 192.0548pt x 127.93094pt.
+ [89 <./Images/Screenshot 2025-01-17 at 16-49-22 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 16-51-24 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 16-53-05 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 16-54-12 so-05-memoria - so-05-memoria.pdf.png, id=2452, 1359.0775pt x 901.3675pt>
+File: Images/Screenshot 2025-01-17 at 16-54-12 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-54-12 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-54-12 so-05-memoria - so-05-memoria.pdf.png  used on input line 400.
+(pdftex.def)             Requested size: 170.71393pt x 113.2208pt.
+<Images/Screenshot 2025-01-17 at 16-56-21 so-05-memoria - so-05-memoria.pdf.png, id=2453, 798.985pt x 911.405pt>
+File: Images/Screenshot 2025-01-17 at 16-56-21 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-56-21 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-56-21 so-05-memoria - so-05-memoria.pdf.png  used on input line 408.
+(pdftex.def)             Requested size: 128.0387pt x 146.05028pt.
+<Images/Screenshot 2025-01-17 at 16-57-37 so-05-memoria - so-05-memoria.pdf.png, id=2454, 1706.375pt x 867.24pt>
+File: Images/Screenshot 2025-01-17 at 16-57-37 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 16-57-37 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 16-57-37 so-05-memoria - so-05-memoria.pdf.png  used on input line 418.
+(pdftex.def)             Requested size: 256.07741pt x 130.14655pt.
+ [90 <./Images/Screenshot 2025-01-17 at 16-54-12 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 16-56-21 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 16-57-37 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 17-37-53 so-05-memoria - so-05-memoria.pdf.png, id=2465, 1612.0225pt x 714.67pt>
+File: Images/Screenshot 2025-01-17 at 17-37-53 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-37-53 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-37-53 so-05-memoria - so-05-memoria.pdf.png  used on input line 455.
+(pdftex.def)             Requested size: 298.75264pt x 132.44087pt.
+<Images/Screenshot 2025-01-17 at 17-41-02 so-05-memoria - so-05-memoria.pdf.png, id=2466, 1668.2325pt x 529.98pt>
+File: Images/Screenshot 2025-01-17 at 17-41-02 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-41-02 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-41-02 so-05-memoria - so-05-memoria.pdf.png  used on input line 469.
+(pdftex.def)             Requested size: 341.43437pt x 108.46869pt.
+ [91 <./Images/Screenshot 2025-01-17 at 17-37-53 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 17-41-02 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 17-42-55 so-05-memoria - so-05-memoria.pdf.png, id=2475, 1152.305pt x 558.085pt>
+File: Images/Screenshot 2025-01-17 at 17-42-55 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-42-55 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-42-55 so-05-memoria - so-05-memoria.pdf.png  used on input line 479.
+(pdftex.def)             Requested size: 277.41176pt x 134.35188pt.
+<Images/Screenshot 2025-01-17 at 17-44-49 so-05-memoria - so-05-memoria.pdf.png, id=2476, 1192.455pt x 584.1825pt>
+File: Images/Screenshot 2025-01-17 at 17-44-49 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-44-49 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-44-49 so-05-memoria - so-05-memoria.pdf.png  used on input line 488.
+(pdftex.def)             Requested size: 277.41176pt x 135.90125pt.
+<Images/Anomalia_di_Belady.svg.png, id=2477, 1927.2pt x 1284.8pt>
+File: Images/Anomalia_di_Belady.svg.png Graphic file (type png)
+<use Images/Anomalia_di_Belady.svg.png>
+Package pdftex.def Info: Images/Anomalia_di_Belady.svg.png  used on input line 496.
+(pdftex.def)             Requested size: 277.41176pt x 184.92871pt.
+ [92 <./Images/Screenshot 2025-01-17 at 17-42-55 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 17-44-49 so-05-memoria - so-05-memoria.pdf.png> <./Images/Anomalia_di_Belady.svg.png>]
+<Images/Screenshot 2025-01-17 at 17-53-59 so-05-memoria - so-05-memoria.pdf.png, id=2488, 1656.1875pt x 710.655pt>
+File: Images/Screenshot 2025-01-17 at 17-53-59 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-53-59 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-53-59 so-05-memoria - so-05-memoria.pdf.png  used on input line 511.
+(pdftex.def)             Requested size: 298.75264pt x 128.18347pt.
+<Images/Screenshot 2025-01-17 at 17-56-57 so-05-memoria - so-05-memoria.pdf.png, id=2489, 1650.165pt x 726.715pt>
+File: Images/Screenshot 2025-01-17 at 17-56-57 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 17-56-57 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 17-56-57 so-05-memoria - so-05-memoria.pdf.png  used on input line 524.
+(pdftex.def)             Requested size: 298.75264pt x 131.55708pt.
+ [93 <./Images/Screenshot 2025-01-17 at 17-53-59 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 17-56-57 so-05-memoria - so-05-memoria.pdf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 556--560
+
+ []
+
+<Images/Screenshot 2025-01-17 at 18-15-39 so-05-memoria - so-05-memoria.pdf.png, id=2498, 1485.55pt x 385.44pt>
+File: Images/Screenshot 2025-01-17 at 18-15-39 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 18-15-39 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 18-15-39 so-05-memoria - so-05-memoria.pdf.png  used on input line 587.
+(pdftex.def)             Requested size: 298.75264pt x 77.51009pt.
+[94 <./Images/Screenshot 2025-01-17 at 18-15-39 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 18-21-08 so-05-memoria - so-05-memoria.pdf.png, id=2505, 1555.8125pt x 927.465pt>
+File: Images/Screenshot 2025-01-17 at 18-21-08 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 18-21-08 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 18-21-08 so-05-memoria - so-05-memoria.pdf.png  used on input line 608.
+(pdftex.def)             Requested size: 298.75264pt x 178.08824pt.
+ [95 <./Images/Screenshot 2025-01-17 at 18-21-08 so-05-memoria - so-05-memoria.pdf.png>]
+<Images/Screenshot 2025-01-17 at 18-33-00 so-05-memoria - so-05-memoria.pdf.png, id=2513, 1278.7775pt x 778.91pt>
+File: Images/Screenshot 2025-01-17 at 18-33-00 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 18-33-00 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 18-33-00 so-05-memoria - so-05-memoria.pdf.png  used on input line 656.
+(pdftex.def)             Requested size: 256.07741pt x 155.9694pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--664
+
+ []
+
+<Images/Screenshot 2025-01-17 at 18-38-59 so-05-memoria - so-05-memoria.pdf.png, id=2514, 1421.31pt x 198.7425pt>
+File: Images/Screenshot 2025-01-17 at 18-38-59 so-05-memoria - so-05-memoria.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-17 at 18-38-59 so-05-memoria - so-05-memoria.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-17 at 18-38-59 so-05-memoria - so-05-memoria.pdf.png  used on input line 670.
+(pdftex.def)             Requested size: 256.07741pt x 35.80545pt.
+) [96 <./Images/Screenshot 2025-01-17 at 18-33-00 so-05-memoria - so-05-memoria.pdf.png> <./Images/Screenshot 2025-01-17 at 18-38-59 so-05-memoria - so-05-memoria.pdf.png>]
+\openout2 = `TeX/Slide07.aux'.
+
+ (./TeX/Slide07.tex
+Capitolo 6.
+[97
+
+
+
+
+]
+<Images/Screenshot 2025-01-18 at 15-45-24 so-07-filesystem.pdf.png, id=2527, 1670.24pt x 562.1pt>
+File: Images/Screenshot 2025-01-18 at 15-45-24 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 15-45-24 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 15-45-24 so-07-filesystem.pdf.png  used on input line 64.
+(pdftex.def)             Requested size: 298.75264pt x 100.53894pt.
+ [98 <./Images/Screenshot 2025-01-18 at 15-45-24 so-07-filesystem.pdf.png>] [99]
+<Images/Screenshot 2025-01-18 at 16-02-00 so-07-filesystem.pdf.png, id=2538, 1614.03pt x 979.66pt>
+File: Images/Screenshot 2025-01-18 at 16-02-00 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-02-00 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-02-00 so-07-filesystem.pdf.png  used on input line 135.
+(pdftex.def)             Requested size: 298.75264pt x 181.32394pt.
+<Images/Screenshot 2025-01-18 at 16-04-34 so-07-filesystem.pdf.png, id=2539, 1622.06pt x 961.5925pt>
+File: Images/Screenshot 2025-01-18 at 16-04-34 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-04-34 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-04-34 so-07-filesystem.pdf.png  used on input line 141.
+(pdftex.def)             Requested size: 298.75264pt x 177.0995pt.
+ [100 <./Images/Screenshot 2025-01-18 at 16-02-00 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-04-34 so-07-filesystem.pdf.png>]
+<Images/Screenshot 2025-01-18 at 16-10-24 so-07-filesystem.pdf.png, id=2548, 1680.2775pt x 285.065pt>
+File: Images/Screenshot 2025-01-18 at 16-10-24 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-10-24 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-10-24 so-07-filesystem.pdf.png  used on input line 166.
+(pdftex.def)             Requested size: 298.75264pt x 50.68312pt.
+<Images/Screenshot 2025-01-18 at 16-12-24 so-07-filesystem.pdf.png, id=2549, 1688.3075pt x 248.93pt>
+File: Images/Screenshot 2025-01-18 at 16-12-24 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-12-24 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-12-24 so-07-filesystem.pdf.png  used on input line 178.
+(pdftex.def)             Requested size: 298.75264pt x 44.04959pt.
+ [101 <./Images/Screenshot 2025-01-18 at 16-10-24 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-12-24 so-07-filesystem.pdf.png>]
+<Images/Screenshot 2025-01-18 at 16-21-15 so-07-filesystem.pdf.png, id=2559, 574.145pt x 901.3675pt>
+File: Images/Screenshot 2025-01-18 at 16-21-15 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-21-15 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-21-15 so-07-filesystem.pdf.png  used on input line 210.
+(pdftex.def)             Requested size: 128.0387pt x 201.01094pt.
+<Images/Screenshot 2025-01-18 at 16-26-12 so-07-filesystem.pdf.png, id=2560, 1646.15pt x 556.0775pt>
+File: Images/Screenshot 2025-01-18 at 16-26-12 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-26-12 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-26-12 so-07-filesystem.pdf.png  used on input line 225.
+(pdftex.def)             Requested size: 298.75264pt x 100.92116pt.
+ [102 <./Images/Screenshot 2025-01-18 at 16-21-15 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-26-12 so-07-filesystem.pdf.png>]
+<Images/Screenshot 2025-01-18 at 16-35-55 so-07-filesystem.pdf.png, id=2569, 973.6375pt x 606.265pt>
+File: Images/Screenshot 2025-01-18 at 16-35-55 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-35-55 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-35-55 so-07-filesystem.pdf.png  used on input line 241.
+(pdftex.def)             Requested size: 170.71393pt x 106.29222pt.
+<Images/Screenshot 2025-01-18 at 16-36-06 so-07-filesystem.pdf.png, id=2570, 407.5225pt x 873.2625pt>
+File: Images/Screenshot 2025-01-18 at 16-36-06 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-36-06 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-36-06 so-07-filesystem.pdf.png  used on input line 246.
+(pdftex.def)             Requested size: 72.55374pt x 155.46155pt.
+<Images/Screenshot 2025-01-18 at 16-40-54 so-07-filesystem.pdf.png, id=2571, 1591.9475pt x 443.6575pt>
+File: Images/Screenshot 2025-01-18 at 16-40-54 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-40-54 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-40-54 so-07-filesystem.pdf.png  used on input line 264.
+(pdftex.def)             Requested size: 298.75264pt x 83.25327pt.
+<Images/Screenshot 2025-01-18 at 16-47-32 so-07-filesystem.pdf.png, id=2572, 1660.2025pt x 497.86pt>
+File: Images/Screenshot 2025-01-18 at 16-47-32 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-47-32 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-47-32 so-07-filesystem.pdf.png  used on input line 277.
+(pdftex.def)             Requested size: 298.75264pt x 89.58813pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Images/Screenshot 2025-01-18 at 16-45-53 so-07-filesystem.pdf.png, id=2573, 1628.0825pt x 433.62pt>
+File: Images/Screenshot 2025-01-18 at 16-45-53 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-45-53 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-45-53 so-07-filesystem.pdf.png  used on input line 287.
+(pdftex.def)             Requested size: 298.75264pt x 79.5634pt.
+[103 <./Images/Screenshot 2025-01-18 at 16-35-55 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-36-06 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-40-54 so-07-filesystem.pdf.png>]
+<Images/Screenshot 2025-01-18 at 16-49-53 so-07-filesystem.pdf.png, id=2584, 1684.2925pt x 644.4075pt>
+File: Images/Screenshot 2025-01-18 at 16-49-53 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-49-53 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-49-53 so-07-filesystem.pdf.png  used on input line 297.
+(pdftex.def)             Requested size: 298.75264pt x 114.29709pt.
+<Images/Screenshot 2025-01-18 at 16-55-04 so-07-filesystem.pdf.png, id=2585, 1708.3825pt x 473.77pt>
+File: Images/Screenshot 2025-01-18 at 16-55-04 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 16-55-04 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 16-55-04 so-07-filesystem.pdf.png  used on input line 312.
+(pdftex.def)             Requested size: 341.43437pt x 94.68002pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[104 <./Images/Screenshot 2025-01-18 at 16-47-32 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-45-53 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 16-49-53 so-07-filesystem.pdf.png>]
+<Images/Screenshot 2025-01-18 at 17-00-54 so-07-filesystem.pdf.png, id=2596, 1698.345pt x 871.255pt>
+File: Images/Screenshot 2025-01-18 at 17-00-54 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 17-00-54 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 17-00-54 so-07-filesystem.pdf.png  used on input line 323.
+(pdftex.def)             Requested size: 298.75264pt x 153.25627pt.
+<Images/Screenshot 2025-01-18 at 17-02-36 so-07-filesystem.pdf.png, id=2597, 1387.1825pt x 588.1975pt>
+File: Images/Screenshot 2025-01-18 at 17-02-36 so-07-filesystem.pdf.png Graphic file (type png)
+<use Images/Screenshot 2025-01-18 at 17-02-36 so-07-filesystem.pdf.png>
+Package pdftex.def Info: Images/Screenshot 2025-01-18 at 17-02-36 so-07-filesystem.pdf.png  used on input line 337.
+(pdftex.def)             Requested size: 298.75264pt x 126.6754pt.
+) [105 <./Images/Screenshot 2025-01-18 at 16-55-04 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 17-00-54 so-07-filesystem.pdf.png> <./Images/Screenshot 2025-01-18 at 17-02-36 so-07-filesystem.pdf.png>] (./main.aux (./TeX/Slide01.aux) (./TeX/Slide02.aux) (./TeX/Slide03.aux) (./TeX/Slide04.aux) (./TeX/Slide05.aux) (./TeX/Slide07.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 69D37AA3F6CD8DAB0A5610C053FECE22;23454.
+ ) 
+Here is how much of TeX's memory you used:
+ 17731 strings out of 474222
+ 321625 string characters out of 5748733
+ 2200975 words of memory out of 5000000
+ 38286 multiletter control sequences out of 15000+600000
+ 569950 words of font info for 78 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,7n,79p,539b,1997s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on main.pdf (107 pages, 8210466 bytes).
+PDF statistics:
+ 3010 PDF objects out of 3580 (max. 8388607)
+ 2614 compressed objects within 27 object streams
+ 1479 named destinations out of 1728 (max. 500000)
+ 1597 words of extra memory for PDF output out of 10000 (max. 10000000)
+
