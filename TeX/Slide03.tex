@@ -791,7 +791,7 @@ $0 \leq n_V + init - n_P \leq 1$ oppure $0 \leq s.value \leq 1$
 
         BinarySemaphore(int v){ //fail if v not in {0,1}
             s0 = new Semaphore(v)
-            s0 = new Semaphore(1-v)
+            s1 = new Semaphore(1-v)
         }
         
         void P(void){
