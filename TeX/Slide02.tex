@@ -513,9 +513,10 @@ Esistono due tipi di processi RT (real-time).
 \newline
 \textit{Esempio: l'allarme di un rilevatore di pericolo}
 
+\newpage
 \subsection{Esempi di Scheduler RT}
 \subsubsection{Rate Monotonic}
-\paragraph{Descrizione:} è una politica di scheduling, dove ogni processo periodico deve completare entro il suo periodo, tutti i processi sono indipendenti e la preemption avviene istantaneamente e senza overhead.
+\paragraph{Descrizione:} è una politica di scheduling, dove ogni processo periodico deve completarsi entro il suo periodo, tutti i processi sono indipendenti e la preemption avviene istantaneamente e senza overhead.
 
 Viene assegnata staticamente una priorità a ogni processo, processi con frequenza più alta \textit{(i.e. periodo più corto)} hanno priorità più alta. Ad ogni istante, viene eseguito il processo con priorità più alta (facendo preemption se necessario).
 
