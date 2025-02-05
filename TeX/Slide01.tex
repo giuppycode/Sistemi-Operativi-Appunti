@@ -612,7 +612,7 @@ connettere due processi.
 \textit{Esempio: A $||$ B}
 
 \paragraph{Pipe in C:} Utilizza la funzione pipe() e i descrittori di file, permette la comunicazione tra processi correlati (es. genitore-figlio). Sono unidirezionali (ma possono essere create multiple pipe per bidirezionalità)
-La creazione è splicita nel codice del programma e persiste finché non viene chiusa esplicitamente o il processo termina.
+La creazione è esplicita nel codice del programma e persiste finché non viene chiusa o il processo termina.
 \textit{Esempio:
 pipe(pipefd)
 … write(pipefd[1], ...)
