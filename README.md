@@ -15,4 +15,4 @@ Questo documento non intende sostituire in alcun modo il materiale ufficiale del
 ## Contributi
 
 Siete liberi di modificare i file .tex e aprire una pull request su GitHub per proporre le vostre correzioni.
-Si noti che questa è una versione statica delle dispense che non verrà aggiornata dall'autore originale, ma serve esclusivamente come punto di partenza per la condivisione e il miglioramento collaborativo.
+Si noti che i file non verranno aggiornati dall'autore originale, la repository serve esclusivamente come punto di partenza per la condivisione e il miglioramento collaborativo.
