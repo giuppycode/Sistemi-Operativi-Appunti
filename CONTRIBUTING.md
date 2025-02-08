@@ -41,7 +41,7 @@ Grazie per il tuo interesse nel contribuire a questo progetto! Questo documento 
 
 ### Struttura del documento
 - Usa una struttura chiara con sezioni e sottosezioni
-- Inserisci le immagini in una cartella `images/`
+- Inserisci le immagini nella cartella `images/`
 
 ### Stile del codice
 - Cerca di attenerti allo stile usato
@@ -60,7 +60,6 @@ Grazie per il tuo interesse nel contribuire a questo progetto! Questo documento 
 - [ ] Le modifiche sono consistenti con lo stile esistente
 - [ ] Hai aggiunto i label necessari
 - [ ] Hai verificato la correttezza matematica
-- [ ] Hai aggiornato l'indice se necessario
 
 ## Domande?
 
