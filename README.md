@@ -2,6 +2,8 @@
 
 Questo progetto LaTeX contiene una raccolta di appunti per il corso di Sistemi Operativi del Professor Ferretti, condivisi gratuitamente per facilitare lo studio della teoria.
 
+Per visualizzare la versione aggiornata del file clicca [qui](main.pdf).
+
 ## Disclaimer
 
 Il presente documento è una rielaborazione personale delle slide del corso di Sistemi Operativi del Professor Ferretti. I contenuti sono stati trascritti e organizzati con il solo scopo di facilitare lo studio personale della materia.
