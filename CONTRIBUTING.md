@@ -10,8 +10,7 @@ Grazie per il tuo interesse nel contribuire a questo progetto! Questo documento 
 
 2. **Clone locale**
    ```bash
-   git clone https://github.com/TUO-USERNAME/nome-repository.git
-   cd nome-repository
+   git clone git@github.com:giuppycode/unibo-sistemi-operativi-2024.git
    ```
 
 3. **Crea un branch per le tue modifiche**
