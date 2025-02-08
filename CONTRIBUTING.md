@@ -54,16 +54,6 @@ Grazie per il tuo interesse nel contribuire a questo progetto! Questo documento 
 - Miglioramenti alla formattazione
 - Aggiunta di figure
 
-## Prima di inviare una PR
-
-- [ ] Il documento compila senza errori
-- [ ] Le modifiche sono consistenti con lo stile esistente
-- [ ] Hai aggiunto i label necessari
-- [ ] Hai verificato la correttezza matematica
-
-## Domande?
-
-Se hai domande o dubbi, apri una Issue sulla repository.
 
 ## Licenza
 
