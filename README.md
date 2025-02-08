@@ -16,3 +16,8 @@ Questo documento non intende sostituire in alcun modo il materiale ufficiale del
 
 Siete liberi di modificare i file .tex e aprire una pull request su GitHub per proporre le vostre correzioni.
 Si noti che i file non verranno aggiornati dall'autore originale, la repository serve esclusivamente come punto di partenza per la condivisione e il miglioramento collaborativo.
+
+### Come Contribuire
+
+Per contribuire a questo progetto, consulta le linee guida nel file [CONTRIBUTING.md](CONTRIBUTING.md).
+
